@@ -1882,7 +1882,6 @@ body.popup-show::after {
 @media (max-width: 419.89px) {
   .carusel__text {
     font-size: 10px;
-    max-width: 137px;
   }
 }
 
